@@ -21,14 +21,6 @@ A sleek, animated Rock Paper Scissors game built using HTML, CSS, and JavaScript
 
 [GitHub Pages](https://zardrick.github.io/rock-paper-scissors)
 
-## 🧠 What I Learned
-
-- DOM manipulation and event delegation
-- How to trigger audio in JavaScript
-- CSS transitions, animations, and responsive layout techniques
-- State management and conditional rendering
-- Packaging and deploying a polished frontend project
-
 ## 🛠 How to Run Locally
 
 1. Clone the repo:
